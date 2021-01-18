@@ -1,1 +1,2 @@
 # matplotlib-challenge
+The following assignment is an analysis of pharmaceutical trial data that implements Matplotlib and Pandas to visualize data. Plots are generated using both libraries. Additionally, calculations such as linear regression and correlation coefficients are also determined quantitatively, via scipy stats. 
